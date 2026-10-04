@@ -10,7 +10,7 @@ p {
 }
 
 #navMenu { 
-   background: #2d0883;
+   background: #0F172A;
     margin-top: 20px;
     margin-bottom: 10px;
     padding: 24px;
@@ -24,18 +24,18 @@ p {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #2d0883;
+    background-color: #0F172A;
     width: 100%;
 }  
 
 .menuItem { 
    transition: 0.3s ease;
-    background: #2d0883;
+    background: #0F172A;
     color: #fff;
     font-size: 20px;
     text-decoration: none;
-    border-top: 4px solid #2d0883;
-    border-bottom: 4px solid #2d0883;
+    border-top: 4px solid #0F172A;
+    border-bottom: 4px solid #0F172A;
     margin: 0 20px;
     float: left;
     display: block;
