@@ -39,4 +39,4 @@ A responsive Angular web application featuring an interactive world map that dis
 
 **Jake Black**
 
-- LinkedIn: [Jake Black](www.linkedin.com/in/blackjacj)
+- LinkedIn: [Jake Black](https://www.linkedin.com/in/blackjacj/)
